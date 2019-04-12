@@ -1,0 +1,7 @@
+*.wav
+*.TextGrid
+audio/*
+.*
+*.Rproj
+data/*
+.Rproj.user
